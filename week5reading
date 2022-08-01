@@ -1,3 +1,3 @@
-#Windows Command Line Tools
+# Windows Command Line Tools
 
-In this reading they spoke of a company called Upguard. They spoke on the evolution of the SMB port which was later changed to CFIS and then changed to many other names. It was stated that they had a certain type of vulnerability and needed to be guarded. It was labeled as port 139 and 445. The article that they are not publically safe and havent been for over a decade and then it discussed how to make them safe from vulnerabilities such as no single point of failure, VPNs. MAC address filtering and other things.
+In this reading they spoke of a company called Upguard. They spoke on the evolution of the SMB port which was later changed to CFIS and then changed to many other names. It was stated that they had a certain type of vulnerability and needed to be guarded. It was labeled as port 139 and 445. The article that they are not publically safe and havent been for over a decade and then it discussed how to make them safe from vulnerabilities such as no single point of failure, VPNs. MAC address filtering and other things

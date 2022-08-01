@@ -5,3 +5,5 @@
 - [Class 201 Week 4 Reading Notes](week4reading)
 
  -[Class 201 Week 5 Reading Notes](week5reading)
+
+-[Class 201 Week 6 Reading Notes](week6reading)
