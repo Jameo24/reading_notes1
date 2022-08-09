@@ -1,0 +1,15 @@
+#PF sense
+
+PF sense is a fully customizable distro that can change any computer into a fireawall and router. The computer must have two access cards and if you have compact flash storage you should use embedded version of PF sense. Pf sense has other popular uses as listed below.
+
+LAN/WAN Router
+Internet Cafes
+Wireless Hotspot (Captive Portal)
+VPN Router
+Firewall
+DHCP / DNS Server
+Wireless Access Point
+Transparent Squid Proxy Server
+Multi Wan Router or Load Balancer
+DNS Blacklist
+Port Forwarding / NAT (Network Address Translation)
