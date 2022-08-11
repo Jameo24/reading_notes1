@@ -19,3 +19,5 @@
 -[Class 201 week 11 Reading Notes](week11reading)
 
 -[Class 201 week 12 reading Notes](week12reading)
+
+-[Class 201 week 13 reading Notes](week13reading)
